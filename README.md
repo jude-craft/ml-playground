@@ -67,7 +67,7 @@ Currently learning:
 
 ---
 
-## 🚧 Work in Progress
+## Work in Progress
 
 This repository will keep evolving as I learn more concepts, build projects, and explore advanced topics in AI and Machine Learning.
 
