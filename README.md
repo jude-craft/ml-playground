@@ -1,4 +1,4 @@
-# ML Playground 
+# Machine Learning Playground 
 
 Welcome to my Machine Learning playground — a repository documenting my journey of learning and building with Machine Learning through Kaggle, hands-on projects, experiments, and real-world datasets.
 
